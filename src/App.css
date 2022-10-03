@@ -1,0 +1,18 @@
+.App {
+  background: red;
+  height: 100vh;
+
+  background: linear-gradient(
+    0deg,
+    rgba(34, 193, 195, 1) 0%,
+    rgba(41, 94, 94, 1) 9%,
+    rgba(131, 63, 63, 1) 100%
+  );
+}
+
+@media (max-width: 767px) {
+    /* tablet, landscape iPad, lo-res laptops ands desktops */
+    .App {
+        height: 100%;
+    }
+}
