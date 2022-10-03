@@ -11,8 +11,11 @@
 }
 
 @media (max-width: 767px) {
-    /* tablet, landscape iPad, lo-res laptops ands desktops */
-    .App {
-        height: 100%;
-    }
+  /* tablet, landscape iPad, lo-res laptops ands desktops */
+  .App {
+    height: 100%;
+  }
+  .col-md-4 {
+    margin: 1rem 0 !important;
+  }
 }
