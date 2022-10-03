@@ -1,9 +1,12 @@
 {
   "name": "react-cards",
   "private": true,
+  "homepage": "http://JuanSolisA.github.io/react-cards",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "react-cards -d build",
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview"
@@ -11,6 +14,7 @@
   "dependencies": {
     "animate.css": "^4.1.1",
     "bootstrap": "^5.2.1",
+    "gh-pages": "^4.0.0",
     "prop-types": "^15.8.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
