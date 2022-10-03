@@ -1,4 +1,4 @@
-@charset "UTF-8";.card:hover{box-shadow:5px 10px 20px 1px #fff;transition:all .7s linear}.card-body{padding:2rem 0!important}.card-text{padding:.3rem 1rem;font-size:1rem}.overflow{overflow:hidden}.card-img-top{transition:all .2s ease-in-out}.card-img-top:hover{transform:scale(1.8)}.App{background:red;height:100vh;background:linear-gradient(0deg,rgba(34,193,195,1) 0%,rgba(41,94,94,1) 9%,rgba(131,63,63,1) 100%)}@media (max-width: 767px){.App{height:100%}}/*!
+@charset "UTF-8";.card:hover{box-shadow:5px 10px 20px 1px #fff;transition:all .7s linear}.card-body{padding:2rem 0!important}.card-text{padding:.3rem 1rem;font-size:1rem}.overflow{overflow:hidden}.card-img-top{transition:all .2s ease-in-out}.card-img-top:hover{transform:scale(1.8)}.App{background:red;height:100vh;background:linear-gradient(0deg,rgba(34,193,195,1) 0%,rgba(41,94,94,1) 9%,rgba(131,63,63,1) 100%)}@media (max-width: 767px){.App{height:100%}.col-md-4{margin:1rem 0!important}}/*!
  * Bootstrap  v5.2.1 (https://getbootstrap.com/)
  * Copyright 2011-2022 The Bootstrap Authors
  * Copyright 2011-2022 Twitter, Inc.
